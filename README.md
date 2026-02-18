@@ -60,10 +60,13 @@ for x, y in loader:
 If you use this work in your research, please cite:
 ```bibtex
 @misc{bakhtiarifard2026momos,
-  title   = {Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs},
-  author  = {Bakhtiarifard, Pedram and Chen, Tong and Wensh{\o}j, Jonathan and Dam, Erik B. and Selvan, Raghavendra},
-  year    = {2026},
-  note    = {Manuscript}
+      title={Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs}, 
+      author={Pedram Bakhtiarifard and Tong Chen and Jonathan Wenshøj and Erik B Dam and Raghavendra Selvan},
+      year={2026},
+      eprint={2602.14896},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2602.14896}, 
 }
 ```
 
