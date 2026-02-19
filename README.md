@@ -2,7 +2,7 @@
 
 ![MoMos overview](images/momos.png)
 
-This is the official repository for the paper *Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs*.
+This is the official repository for the paper [*Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs*](https://arxiv.org/abs/2602.14896).<br>
 **Authors:**
 Pedram Bakhtiarifard, Tong Chen, Jonathan Wenshøj, Erik B Dam, Raghavendra Selvan <br>
 **Affiliation:**
